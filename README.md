@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @parmiiida
+- 👀 I’m interested in full stack Web development...
+- 🌱 I’m currently learning TypeScript , React , Nextjs ,Nodejs and etc ...
+- 📫 parmida.shoeibzade4@gmail.com...
+
+<!---
+parmiiida/parmiiida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
